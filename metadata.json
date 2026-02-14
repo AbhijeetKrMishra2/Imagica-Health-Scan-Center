@@ -1,0 +1,7 @@
+{
+  "name": "Imagica Health Scan Portal",
+  "description": "Enterprise clinical diagnostics management system providing specialized imaging services including 3T MRI, 512 Slice CT, and advanced pathology integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
